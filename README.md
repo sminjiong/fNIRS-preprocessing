@@ -1,4 +1,6 @@
-# fNIRS-preprocessing
+# fNIRS
+### Emotion Detection
+
 ### 1. Detecting and rejecting low quality channels (SCI 사용)
 
 - **Scalp coupling index (SCI)
